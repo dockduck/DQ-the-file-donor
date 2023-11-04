@@ -189,8 +189,8 @@ Nᴀᴍᴇ - {}"""
 
 <b>
 =========== • ✠ • ===========
-▫️ ᴄʜᴀɴɴᴇʟ : @DQ_The_File_Donor_Bot_Updates
-▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @DQ_The_File_Donor_Support
+▫️ ᴄʜᴀɴɴᴇʟ : @adult_movies_files
+▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @night_shadowz
 =========== • ✠ • ===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
